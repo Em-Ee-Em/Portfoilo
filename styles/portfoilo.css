@@ -15,17 +15,43 @@ font-family: 'Edu TAS Beginner', cursive;
 font-weight: bold;
 }
 
-
-P {
-    font-family: 'Playfair Dipslay', sans-serif;
-    font-weight: normal;
+body {
+    background-color:rgb(216, 246, 245);
 }
 
 
+
+
 .hero {
-    background-color: rgb(107, 233, 237);
+    background-color: rgb(245, 235, 177);
     text-align: center;
     border-radius: 10px;
     padding: 20px;
-    margin: 10px 100px;
+    margin: 10px 200px;
+    border: 5px solid rgb(184, 170, 92);
+}
+
+.container {
+    margin: 0 230px;
+    font-size: 12px;
+}
+
+a:link {
+    font-family: 'Playfair Dipslay', sans-serif;
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    color:black;
+    font-family: 'Playfair Dipslay', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+font-weight: bold;
+}
+
+.img {
+   margin:20px 200px
 }
