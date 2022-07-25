@@ -5,14 +5,16 @@ h1 {
     font-family: 'Edu TAS Beginner', cursive;
     font-weight: bold;
     margin-top: 30px; 
+    margin-bottom: 5px;
     font-size: 80px;
+    text-align: center;
 }
 
 h2 {
-
 color: black;
 font-family: 'Edu TAS Beginner', cursive;
 font-weight: bold;
+text-align: center;
 }
 
 body {
@@ -20,16 +22,6 @@ body {
 }
 
 
-
-
-.hero {
-    background-color: rgb(251, 248, 229);
-    text-align: center;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 10px 200px;
-    border: 3px solid rgb(184, 170, 92);
-}
 
 .container {
     font-size: 12px;
@@ -58,8 +50,8 @@ font-weight: bold;
 
 
 .container-fluid {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.069);
     font-family: 'Playfair Dipslay', sans-serif;
-    border: 1px solid rgb(184, 170, 92);
+   
 }
 
