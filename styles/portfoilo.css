@@ -55,3 +55,16 @@ font-weight: bold;
    
 }
 
+@media only screen and (max-width: 600px)
+{
+    #navbar-brand {
+      max-height: fit-content;
+    }
+}
+
+@media (max-width: 600px)
+{
+    #img-fluid {
+      max-height: fit-content;
+    }
+}
